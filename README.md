@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##This project is for storing contact records with multiple addresses
 
-Things you may want to cover:
+##Gems used
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###rails
+###pg 
+###puma 
+###rack-cors
+###rack-attack
+###devise
+###simple_token_authentication 
+###will_paginate
+###api-pagination
+###active_model_serializers
